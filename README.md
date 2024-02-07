@@ -1,33 +1,34 @@
-# Zeta Shop
+# Advanced Tech Shop
 
 ### General Information:
-The purpose of the "Zeta Shop" project is to establish and operate a laptop store that caters to customers in need of high-quality laptops and related accessories. The primary objective is to provide a diverse range of laptops from various brands, ensuring that customers have access to a wide selection of devices to meet their specific requirements.
+Welcome to the "Advanced Tech Shop," your go-to destination for high-quality IT devices, including laptops, PCs, and more. Our mission is to provide customers with a diverse selection of cutting-edge technology products to meet their specific needs and preferences.
 
 ### Key Features and Functions:
 
-* **Product Catalog:** Zeta Shop will maintain a comprehensive product catalog featuring the latest laptop models, including specifications, features, and pricing details.
+* **Product Catalog:** Advanced Tech Shop boasts an extensive product catalog featuring the latest models of laptops, complete with detailed specifications, features, and pricing information.
 
-* **User-friendly Interface:** The project will incorporate a user-friendly interface for easy navigation, allowing customers to browse through the product catalog, filter options, and find the laptops that best suit their needs.
+* **User-friendly Interface:** Our user-friendly interface ensures a seamless shopping experience. Customers can easily navigate through the product catalog, utilize filtering options, and find the perfect laptops that suit their requirements.
 
-* **Secure Online Shopping:** Zeta Shop will enable secure online transactions, allowing customers to purchase laptops and accessories with confidence. This involves implementing secure payment gateways and encryption protocols.
+* **Secure Online Shopping:** We prioritize the security of your online transactions. Advanced Tech Shop employs secure payment gateways and encryption protocols, allowing customers to make purchases with confidence.
 
-* **Order Tracking:** The project will offer order tracking functionality, enabling customers to monitor the status of their purchases from the time of order placement to delivery.
+* **Order Tracking:** Keep tabs on your orders with our efficient order tracking functionality. From the moment you place your order to its delivery, we provide real-time updates on the status of your purchase.
 
-* **Customer Support:** Zeta Shop will provide customer support services to address inquiries, concerns, and provide assistance throughout the shopping process. This may include live chat, email support, and a dedicated customer service hotline.
+* **Customer Support:** Our dedicated customer support team is ready to assist you with any inquiries or concerns. Whether through live chat, email support, or our hotline, we are committed to providing excellent customer service throughout your shopping journey.
 
 * **Target Users:**
-The primary target users for Zeta Shop include individuals and businesses in need of laptops and related accessories. This encompasses students, professionals, freelancers, and anyone seeking reliable computing devices. The store aims to appeal to a broad audience by offering a diverse range of products to meet various computing needs.
+Advanced Tech Shop caters to a wide range of users, including individuals and businesses in need of laptops and related accessories. Our products are designed to meet the computing needs of students, professionals, freelancers, and anyone seeking reliable IT devices.
 
-Overall, the Zeta Shop project aims to create a convenient and reliable platform for purchasing laptops, providing a seamless online shopping experience for its diverse customer base.
+In essence, Advanced Tech Shop is committed to creating a convenient and trustworthy platform for purchasing laptops, offering a seamless online shopping experience for our diverse customer base.
 
-![alt Registration page](img.png "Registration page")
+![alt Registration page](img.jpg "Registration page")
 
 ### Installation Guide:
 1. Install Golang: https://golang.org/dl/.
 2. Run the server: `go run main.go`.
-3. Use Postman or any HTTP client to send POST requests with JSON data to http://localhost:8080.
+3. Utilize Postman or any HTTP client to send POST requests with JSON data to http://localhost:8080.
 
 ### Participants: 
-* Abdukarimov Sultan
-* Baitenov Arsen
-* Kakimov Aldiyar
+* SE-2211
+* Yessengali Makhanov
+* Aigali Sultankul
+* Batyrkhan Zhanabiliev
